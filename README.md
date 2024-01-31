@@ -1,5 +1,5 @@
 # LED-sequence-gpio-project
- Sequential LED lighting project
+ Sequential LED lighting project with STM32F407G Discovery Board
 
 "gpioConfig" function: This function is used to configure the GPIO pins
 In this example, pins 0, 1, and 2 of the GPIOB port are utilized.
